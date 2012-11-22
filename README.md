@@ -1,4 +1,4 @@
-Rally StoryMap
+Rally Story Map
 ============
 
 ![Title](https://raw.github.com/RallyApps/StoryMap/master/screenshots/title-screenshot.png)
